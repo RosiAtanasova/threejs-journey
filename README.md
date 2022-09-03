@@ -13,4 +13,8 @@ npm run dev
 
 # Build for production in the dist/ directory
 npm run build
+
+# git add --all
+# git commit -m "Add webpack"
+# git push origin main
 ```
