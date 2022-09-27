@@ -12,7 +12,8 @@ const scene = new THREE.Scene()
 
 // Debug with GUI
 const gui = new GUI({
-    closed: true
+    closed: true,
+    width : 400
 });
 const parameters = {
     color : 0xffff00,
